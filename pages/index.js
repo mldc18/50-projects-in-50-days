@@ -8,9 +8,12 @@ export default function Home() {
         <span className="animate-bounce mx-2 font-bold">50</span> Days
       </div>
       <div className="font-Karla font-light text-lg sm:text-xl pt-10">
-        <ul className="list-disc">
+        <ul className="list-decimal flex space-x-10">
           <li>
             <Link href="/expanding-cards">Expanding Cards</Link>
+          </li>
+          <li>
+            <Link href="/progress-steps">Progress Steps</Link>
           </li>
         </ul>
       </div>
