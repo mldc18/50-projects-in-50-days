@@ -26,3 +26,29 @@ a {
 .panel.active p {
   opacity: 1;
 }
+
+.circle.active {
+  border-color: #3498db;
+}
+
+.btn {
+  background: #3498db;
+  color: #fff;
+  cursor: pointer;
+  border: 0;
+  border-radius: 6px;
+  padding: 8px 30px;
+  margin: 5px;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn:disabled {
+  background-color: #e0e0e0;
+}
