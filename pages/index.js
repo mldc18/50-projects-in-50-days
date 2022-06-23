@@ -15,6 +15,9 @@ export default function Home() {
           <li>
             <Link href="/progress-steps">Progress Steps</Link>
           </li>
+          <li>
+            <Link href="/rotating-navigation">Rotating Navigation</Link>
+          </li>
         </ul>
       </div>
     </div>
