@@ -18,6 +18,9 @@ export default function Home() {
           <li>
             <Link href="/rotating-navigation">Rotating Navigation</Link>
           </li>
+          <li>
+            <Link href="/rotating-navigation">Hidden Search</Link>
+          </li>
         </ul>
       </div>
     </div>

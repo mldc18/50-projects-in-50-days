@@ -89,3 +89,23 @@ nav ul li + li + li {
   margin-left: 30px;
   transform: translateX(-200%);
 }
+
+/* Hidden Search */
+
+.search input {
+  width: 50px;
+  height: 50px;
+}
+
+.search button {
+  width: 50px;
+  height: 50px;
+}
+
+.search.active input {
+  width: 300px;
+}
+
+.search.active button {
+  transform: translateX(298px);
+}
