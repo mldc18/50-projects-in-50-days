@@ -109,3 +109,5 @@ nav ul li + li + li {
 .search.active button {
   transform: translateX(298px);
 }
+
+/* Blurry Loading */
