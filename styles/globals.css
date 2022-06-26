@@ -110,4 +110,12 @@ nav ul li + li + li {
   transform: translateX(298px);
 }
 
-/* Blurry Loading */
+/* Scroll Animation */
+
+.box:nth-of-type(even) {
+  transform: translateX(-200%);
+}
+
+.box.show {
+  transform: translateX(0);
+}

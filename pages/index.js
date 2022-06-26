@@ -24,6 +24,9 @@ export default function Home() {
           <li>
             <Link href="/blurry-loading">Blurry Loading</Link>
           </li>
+          <li>
+            <Link href="/scroll-animation">Scroll Animation</Link>
+          </li>
         </ul>
       </div>
     </div>
