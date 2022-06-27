@@ -27,6 +27,9 @@ export default function Home() {
           <li>
             <Link href="/scroll-animation">Scroll Animation</Link>
           </li>
+          <li>
+            <Link href="/split-landing-page">Split Landing Page</Link>
+          </li>
         </ul>
       </div>
     </div>
