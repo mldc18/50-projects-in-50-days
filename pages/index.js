@@ -30,6 +30,9 @@ export default function Home() {
           <li>
             <Link href="/split-landing-page">Split Landing Page</Link>
           </li>
+          <li>
+            <Link href="/form-input-wave">Form Input Wave</Link>
+          </li>
         </ul>
       </div>
     </div>

@@ -119,3 +119,11 @@ nav ul li + li + li {
 .box.show {
   transform: translateX(0);
 }
+
+/* Form Input Wave */
+
+.form-control input:focus + label span,
+.form-control input:valid + label span {
+  color: lightblue;
+  transform: translateY(-30px);
+}
