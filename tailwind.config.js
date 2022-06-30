@@ -8,15 +8,7 @@ module.exports = {
       Rubik: ["Rubik", "sans-serif"],
       Karla: ["Karla", "sans-serif"],
     },
-    extend: {
-      backgroundImage: {
-        explore: "url('/explore.jpg')",
-        forest: "url('/forest.jpg')",
-        mountains: "url('/mountains.jpg')",
-        sunny: "url('/sunny.jpg')",
-        winter: "url('/winter.jpg')",
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
