@@ -33,6 +33,9 @@ export default function Home() {
           <li>
             <Link href="/form-input-wave">Form Input Wave</Link>
           </li>
+          <li>
+            <Link href="/sound-board">Sound Board</Link>
+          </li>
         </ul>
       </div>
     </div>
